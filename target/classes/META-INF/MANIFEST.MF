@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1431415007944
+Build-Jdk: 1.8.0_31
+Built-By: Jeff
+Bundle-ClassPath: WEB-INF/classes
+Bundle-ManifestVersion: 2
+Bundle-Name: osgi-web-example
+Bundle-SymbolicName: osgi-web-example
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.programmervsworld.api;version="0.0.1.SNAPSHOT"
+Import-Package: org.ops4j.pax.web.service
+Service-Component: OSGI-INF/com.programmervsworld.osgi_web_example.DemoG
+ reeterImpl.xml
+Tool: Bnd-1.50.0
+Web-ContextPath: /testme
+WebApp-Context: /testme

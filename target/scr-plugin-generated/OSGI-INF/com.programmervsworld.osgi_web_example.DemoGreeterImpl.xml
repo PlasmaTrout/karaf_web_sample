@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="Demonstration Greeter Component">
+        <implementation class="com.programmervsworld.osgi_web_example.DemoGreeterImpl"/>
+        <service servicefactory="false">
+            <provide interface="com.programmervsworld.api.Greeter"/>
+        </service>
+        <property name="service.pid" value="Demonstration Greeter Component"/>
+    </scr:component>
+</components>
