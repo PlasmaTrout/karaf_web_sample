@@ -8,11 +8,6 @@
 	<listener>
     	<listener-class>org.apache.karaf.web.WebAppListener</listener-class>
   	</listener>
-  	
-  	<servlet>
-  		<servlet-name>test_jsp</servlet-name>
-  		<jsp-file>test.jsp</jsp-file>
-  	</servlet>
-    
+
 </web-app>
     

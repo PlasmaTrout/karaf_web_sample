@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.programmervsworld.osgi_web_example.AppTest" time="0.001" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="com.programmervsworld.osgi_web_example.AppTest" time="0" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_31\jre\bin"/>
@@ -25,7 +25,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="C:\Users\Jeff\mosgi\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5465732696004823186.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Jeff\mosgi\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1107695907033855685.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_31/bin/server;C:/Program Files/Java/jre1.8.0_31/bin;C:/Program Files/Java/jre1.8.0_31/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Dell\DW WLAN Card;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\scala\bin;C:\Go\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\Skype\Phone\;%GROOVY_HOME%\bin;C:\Ruby21-x64\bin;C:\Users\Jeff\.dnx\runtimes\dnx-clr-win-x86.1.0.0-beta4\bin;C:\Users\Jeff\.dnx\bin;C:\Ruby22\bin;C:\Users\Jeff\AppData\Local\Code\bin;C:\Users\Jeff\AppData\Roaming\npm;C:\Program Files (x86)\Git\bin;C:\Program Files\Boot2Docker for Windows;C:\Users\Jeff\AppData\Local\.meteor\;C:\Program Files (x86)\Grails\grails-3.0.1\bin;C:\Users\Jeff\Downloads\sdk\bin;D:\Eclipse\lunasr2;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testApp" classname="com.programmervsworld.osgi_web_example.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="com.programmervsworld.osgi_web_example.AppTest" time="0"/>
 </testsuite>
